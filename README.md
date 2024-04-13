@@ -22,7 +22,7 @@ The API uses a JSON file (`customers.json`) located in the `data` folder to stor
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-repo/customer-api.git
+    git clone https://github.com/PramodMahajan14/customer-api.git
     cd customer-api
     ```
 
